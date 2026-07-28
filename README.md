@@ -1,5 +1,8 @@
 # WT9932Cx-TINY Resources
 
+> [!IMPORTANT]
+> This repository is no longer actively maintained and is retained as an archive. Board support, examples, and future documentation are now maintained in [WT_BSP](https://github.com/Wireless-TAG-Maker/WT_BSP). The existing contents remain available for historical reference.
+
 [中文](./README_zh.md)
 
 This repository mainly stores resources related to WT9932C2-TINY, WT9932C3-TINY, WT9932C5-TINY, and WT9932C61-TINY.
